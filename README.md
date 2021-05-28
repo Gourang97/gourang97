@@ -7,7 +7,8 @@
 
 I'm a aspiring Data Scientist. I grew up in Udaipur city also know as "City of Lakes" in India. I am highly motivated individual to apply my data science knowledge, experience and provide valuable insights to solve challenging business problems. I have an experience of working in a diversified environment and have gained deep-rooted knowledge of the various competencies
 - 🎓 I'm pursuing Masters in Data Science at [Khoury College of Computer and Information Sciences, Northeastern University](https://www.northeastern.edu/) from Sept, 2019 to Dec, 2021 .
-- 🔭 I'm currently with [Axle Informatics](https://axleinfo.com/), a Bioscience and Information technology Company as a Data Science Intern for developing Image Auto-Annotation tool.
+- I am currently working as a Data Science Associate Intern at [ZS Associates INC](https://www.zs.com/), a Global Professional Services company.
+- 🔭 I have completed my internship with [Axle Informatics](https://axleinfo.com/), a Bioscience and Information technology Company as a Data Science Intern wherein I developed an Image Auto-Annotation tool.
 - 🌱 I'm currently learning Natural Language Processing and it's various applications.
 - 📫 I'm best reached via **patel.gou@northeastern.edu** and also via [LinkedIn](https://www.linkedin.com/in/gourang-patel/). I'm always open to interesting conversations and collaboration.
 
