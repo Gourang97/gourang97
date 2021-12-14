@@ -10,6 +10,6 @@ I'm a aspiring Data Scientist. I grew up in Udaipur city also know as "City of L
 - I have worked as a Data Science Associate Intern at [ZS Associates INC](https://www.zs.com/), a Global Professional Services company.
 - 🔭 I have completed my internship with [Axle Informatics](https://axleinfo.com/), a Bioscience and Information technology Company as a Data Science Intern.
 - 🌱 I'm currently learning Natural Language Processing and it's various applications.
-- 📫 I'm best reached via **patel.gou@northeastern.edu** and also via [LinkedIn](https://www.linkedin.com/in/gourang-patel/). I'm always open to interesting conversations and collaboration.
+- 📫 I'm best reached via **patel.gou@northeastern.edu** and also via [LinkedIn](https://www.linkedin.com/in/gourang-patel/). I'm always open to interesting conversations and collaboration
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gourang97&show_icons=true" alt="gourang97" /></p>
