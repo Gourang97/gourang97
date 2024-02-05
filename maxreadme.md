@@ -1,9 +1,8 @@
 
-<h1 align="center">Hi, I'm Gourang 👋</h1>
+<h1 align="center">Max.AI Architecture</h1>
+* [Max Architecture Diagram]
+<br/><img src="https://github.com/Gourang97/gourang97/blob/main/MaxArch.png" width="400" height="200">)
 
-<!--
-**Gourang97/gourang-patel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
 I'm an Applied AI Engineer at ZS Associates in New York City. I grew up in Udaipur city also know as "City of Lakes" in India. I am highly motivated individual to apply my data science knowledge, experience and provide valuable insights to solve challenging business problems. I have an experience of working in a diversified environment and have gained deep-rooted knowledge of the various competencies
 - 🎓 I have completed Masters in Data Science at [Khoury College of Computer and Information Sciences, Northeastern University](https://www.northeastern.edu/) from Sept, 2019 to Dec, 2021 .
