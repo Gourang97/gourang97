@@ -1,7 +1,8 @@
 
 <h1 align="center">Max.AI Architecture</h1>
-* [Max Architecture Diagram]
-<br/><img src="https://github.com/Gourang97/gourang97/blob/main/MaxArch.png" width="400" height="200">)
+
+## Max Architecture Diagram
+<br/><img src="https://github.com/Gourang97/gourang97/blob/main/MaxArch.png" width="600" height="300">)
 
 
 I'm an Applied AI Engineer at ZS Associates in New York City. I grew up in Udaipur city also know as "City of Lakes" in India. I am highly motivated individual to apply my data science knowledge, experience and provide valuable insights to solve challenging business problems. I have an experience of working in a diversified environment and have gained deep-rooted knowledge of the various competencies
